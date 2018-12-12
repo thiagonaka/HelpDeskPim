@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">HelpDeskPim</string>
+
+    <!--Login Activity-->
+
+    <string name="activity_login_str_txt_login">Login</string>
+    <string name="activity_login_str_edt_login">Seu login</string>
+    <string name="activity_login_str_txt_senha">Senha</string>
+    <string name="activity_login_str_edt_senha">Sua senha</string>
+    <string name="activity_login_str_btn_esqueci_senha">Esqueci minha senha</string>
+    <string name="activity_login_str_btn_entrar">Entrar</string>
+
+    <string name="activity_login_str_msg_login_vazio">Preencher os campos Login e Senha</string>
+    <string name="activity_login_str_msg_login_invalido">Login ou Senha inválidos</string>
+
+    <!--Toolbar-->
+
+    <string name="toolbar_home_str_txt_home">Home</string>
+
+    <!--Home Activity-->
+
+    <string name="activity_home_str_txt_home">Home</string>
+    <string name="acitvity_homr_str_txt_voltar">Voltar</string>
+    <string name="activity_home_str_txt_abrir_chamado">Abrir ordem de serviço</string>
+    <string name="activity_home_str_txt_consultar_chamado">Consultar ordem de serviço</string>
+
+    <!--Abrir chamado Activity-->
+
+    <string name="activity_abrir_chamado_str_title_abrir_chamado">Abrir ordem de serviço</string>
+    <string name="activity_abrir_chamado_str_title_editar_ordem_servico">Editar ordem de serviço</string>
+    <string name="activity_abrir_chamado_str_txt_categoria">Categoria</string>
+    <string name="activity_abrir_chamado_str_txt_descricacao">Descrição</string>
+    <string name="activity_abrir_chamado_str_btn_enviar">Enviar</string>
+    <string name="activity_abrir_chamado_str_txt_anexar_arquivo">Anexar arquivo</string>
+    <string name="activity_abrir_chamado_str_txt_descricao_box">Descreva aqui informações do ocorrido...</string>
+    <string name="activity_abrir_chamado_str_msg_preencher">Informe a categoria e descrição do ocorrido.</string>
+    <string name="activity_abrir_chamado_str_msg_aberto_chamado">Sua ordem de serviço foi aberta com sucesso!</string>
+    <string name="activity_abrir_chamado_str_txt_nome">Nome</string>
+    <string name="activity_abrir_chamado_str_txt_email">E-mail</string>
+    <string name="activity_abrir_chamado_str_txt_telefone">Telefone</string>
+    <string name="activity_abrir_chamado_str_txt_local">Local</string>
+    <string name="activity_abrir_chamado_str_txt_titulo">Título</string>
+    <string name="activity_abrir_chamado_str_txt_informe_nome">Informe um nome</string>
+    <string name="activity_abrir_chamado_str_txt_informe_seu_email">Informe um e-mail</string>
+    <string name="activity_abrir_chamado_str_txt_infor_telefone">Informe um telefone</string>
+    <string name="activity_abrir_chamado_str_txt_infor_titulo">Informe um título</string>
+    <string name="activity_abrir_chamado_str_txt_infor_local">Informe o local do ocorrido</string>
+    <string name="activity_abrir_chamado_str_msg_nome">Preencher o nome do responsável pela Ordem de Serviço.</string>
+    <string name="activity_abrir_chamado_str_msg_email">Preencher o email do responsável pela Ordem de Serviço.</string>
+    <string name="activity_abrir_chamado_str_msg_tel">Preencher o telefone do responsável pela Ordem de Serviço.</string>
+    <string name="activity_abrir_chamado_str_msg_local">Preencher o local do ocorrido.</string>
+    <string name="activity_abrir_chamado_str_msg_titulo">Preencher o título da Ordem de Serviço.</string>
+    <string name="activity_abrir_chamado_str_msg_descr">Preencher a descrição da Ordem de Serviço.</string>
+    <string name="activity_abrir_chamado_str_msg_editar_sucesso">Sua ordem de serviço foi editada com sucesso!</string>
+
+    <!--Consultar chamado-->
+
+    <string name="activity_consultar_chamado_str_txt_id">ID:</string>
+    <string name="activity_consultar_chamado_str_txt_categoria">Categoria:</string>
+    <string name="activity_consultar_chamado_str_txt_sla">SLA:</string>
+    <string name="activity_consultar_chamado_str_txt_descricao">Descrição:</string>
+    <string name="activity_consultar_chamado_str_title_consultar">Consultar Ordem de serviço</string>
+    <string name="activity_consultar_chamado_str_txt_nome">Nome:</string>
+    <string name="activity_consultar_chamado_str_txt_email">E-mail:</string>
+    <string name="activity_consultar_chamado_str_txt_telefone">Telefone:</string>
+    <string name="activity_consultar_chamado_str_txt_local">Local:</string>
+    <string name="activity_consultar_chamado_str_txt_titulo">Título:</string>
+    <string name="activity_consultar_chamado_srt_msg_titulo_excluir">Excluir Ordem de Serviço</string>
+    <string name="activity_consultar_chamado_srt_msg_excluir">Deseja excluir esta ordem de serviço?</string>
+    <string name="activity_consultar_chamado_srt_msg_lista_vazia">Você não possui Ordens de Serviço</string>
+
+    <!--Resetar Senha-->
+
+    <string name="activity_resetar_senha_str_title_toolbar">Resetar senha</string>
+    <string name="activity_resetar_senha_str_hint_email">Informe seu e-mail</string>
+    <string name="activity_resetar_senha_str_btn_enviar">Enviar</string>
+    <string name="activity_resetar_senha_str_txt_email">E-mail</string>
+    <string name="activity_resetar_senha_str_msg">Informe seu e-mail de cadastro.</string>
+    <string name="activity_resetar_senha_str_msg_sucesso">Uma nova senha foi enviada para seu email.</string>
+
+</resources>
